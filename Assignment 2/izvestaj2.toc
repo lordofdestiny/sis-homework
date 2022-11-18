@@ -1,0 +1,18 @@
+\babel@toc {serbian}{}\relax 
+\contentsline {section}{\numberline {1}Filtri FDM sistema za paralelni prenos}{3}{}%
+\contentsline {section}{\numberline {2}Određivanje frekvencijskih spektara signala $y_1(t)$ i $y_2(t)$}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Frekvencijski spektar signala $y_1(t)$}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Frekvencijski spektar signala $y_2(t)$}{8}{}%
+\contentsline {section}{\numberline {3}Izbor graničnih učestanosti filtara i učestanosti nosioca $f_c$}{10}{}%
+\contentsline {section}{\numberline {4}Amplitudske karakteristike signala sistema}{12}{}%
+\contentsline {subsection}{\numberline {4.1}Signal $y_1^n(t)$}{12}{}%
+\contentsline {subsection}{\numberline {4.2}Signal $y_2^n(t)$}{13}{}%
+\contentsline {subsection}{\numberline {4.3}Signal $y_2^m(t)$}{14}{}%
+\contentsline {subsection}{\numberline {4.4}Signal $y_T(t)$}{16}{}%
+\contentsline {subsection}{\numberline {4.5}Signal $y_R(t)$}{17}{}%
+\contentsline {subsection}{\numberline {4.6}Signal $y_2^b(t)$}{18}{}%
+\contentsline {subsection}{\numberline {4.7}Signal $y_2^d(t)$}{19}{}%
+\contentsline {subsection}{\numberline {4.8}Signal $y_1^r(t)$}{20}{}%
+\contentsline {subsection}{\numberline {4.9}Signal $y_2^r(t)$}{21}{}%
+\contentsline {section}{\numberline {5}Rekonstruisani signali}{22}{}%
+\contentsline {section}{\numberline {6}Kodovi za generisanje grafika}{22}{}%
